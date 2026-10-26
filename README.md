@@ -1,4 +1,4 @@
-Building PANDA Regulatory Networks from GTEx Gene Expression Data in R
+Tutorial: "Building PANDA Regulatory Networks from GTEx Gene Expression Data in R"
 
 Lopes-Ramos et al. [https://pubmed.ncbi.nlm.nih.gov/28899340/] previously applied PANDA to expression data from GTEx to estimate four gene regulatory networks, including networks for two cell lines (lymphoblastoids and fibroblasts) together with their associated tissue-of-origin (whole blood and skin). Subsequent analyses of these networks identified important differences, including increased, but repressive, regulatory targeting of cell-cycle pathways in tissue compared to cell-line networks.
 
