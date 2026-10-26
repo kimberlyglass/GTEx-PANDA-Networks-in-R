@@ -2,7 +2,7 @@ Tutorial: "Building PANDA Regulatory Networks from GTEx Gene Expression Data in 
 
 Lopes-Ramos et al. [https://pubmed.ncbi.nlm.nih.gov/28899340/] previously applied PANDA to expression data from GTEx to estimate four gene regulatory networks, including networks for two cell lines (lymphoblastoids and fibroblasts) together with their associated tissue-of-origin (whole blood and skin). Subsequent analyses of these networks identified important differences, including increased, but repressive, regulatory targeting of cell-cycle pathways in tissue compared to cell-line networks.
 
-Code demonstrating how to model and analyze PANDA networks based on this analysis is available on netBooks (https://github.com/netZoo/netbooks). A copy of that code, together with the input data necessary to execute it, has been copied to this repository.
+Code demonstrating how to model and analyze PANDA networks based on this analysis is available on netBooks (https://github.com/netZoo/netbooks). The main elements of that code, together with the input data necessary to execute it, has been copied to this repository.
 
 This repository contains two files and one directory:
 
