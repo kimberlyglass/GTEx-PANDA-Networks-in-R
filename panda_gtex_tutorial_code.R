@@ -1,9 +1,9 @@
 ## Installing and loading netZooR ##
 
 ## install netZooR
-# install.packages("devtools")
-# library(devtools)
-# devtools::install_github("netZoo/netZooR", build_vignettes = FALSE)
+install.packages("devtools")
+library(devtools)
+devtools::install_github("netZoo/netZooR", build_vignettes = FALSE)
 
 ## install other packages used in this tutorial
 # if (!requireNamespace("BiocManager", quietly = TRUE))   
